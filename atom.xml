@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Luckey</title>
+  <title>Positive</title>
   
-  <subtitle>Luckeyの博客</subtitle>
+  <subtitle>Positive</subtitle>
   <link href="http://www.luckyzmj.cn/atom.xml" rel="self"/>
   
   <link href="http://www.luckyzmj.cn/"/>
@@ -10,7 +10,7 @@
   <id>http://www.luckyzmj.cn/</id>
   
   <author>
-    <name>Luckey</name>
+    <name>天凉</name>
     
   </author>
   
